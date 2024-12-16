@@ -1,1 +1,3 @@
 here we write some features and bug fixes code
+
+fixed another bug
